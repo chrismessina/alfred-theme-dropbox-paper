@@ -1,51 +1,3 @@
-<style type="text/css">
-.button {
-  -moz-user-drag:none;
-  -moz-user-select:none;
-  -ms-touch-action:manipulation;
-  -ms-user-drag:none;
-  -ms-user-select:none;
-  -o-user-drag:none;
-  -webkit-user-drag:none;
-  -webkit-user-select:none;
-  background-color:#0070e0;
-  border:none;
-  border-radius:4px;
-  box-sizing:border-box;
-  color:#fff;
-  cursor:pointer;
-  display:inline-block;
-  font-family:AtlasGrotesk,NotoSansCJKjp,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
-  font-size:14px;
-  font-weight:700;
-  height:32px;
-  line-height:32px;
-  padding:0 16px;
-  text-align:center;
-  text-decoration:none;
-  touch-action:manipulation;
-  user-drag:none;
-  user-select:none;
-  vertical-align:middle;
-  white-space:nowrap;
-  zoom:1;
-}
-
-.button:hover,.button:focus {
-  background-color:#007af5;
-  color:#fff;
-}
-
-.button:visited {
-  background-color:#0070e0;
-  border:none;
-  color:#fff;
-  font-weight:500;
-  line-height:32px;
-  padding:0 16px;
-}
-</style>
-
 # Dropbox Paper Powerpack Themes
 
 Here are two [Alfred Powerpack Themes](https://www.alfredapp.com/help/appearance/) that are based on [Dropbox Paper](https://paper.dropbox.com)'s color schemes.
@@ -132,3 +84,5 @@ Simplify results by switching the result subtext to "Only for Alternative Action
 ## About
 
 This theme is unaffiliated with nor endorsed by Dropbox.
+
+<a href="https://www.alfredforum.com/topic/15830-dropbox-paper-inspired-themes/">Alfred Forum link</a>.
