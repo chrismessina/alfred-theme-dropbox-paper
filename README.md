@@ -55,7 +55,7 @@ There are four variants in all: one light and one dark theme that each use Atlas
 [Discuss on Alfred Forum](https://www.alfredforum.com/topic/15830-dropbox-paper-inspired-themes/).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/dropbox-paper/dropbox-paper-themes.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-dropbox-paper/raw/main/dropbox-paper-themes.zip" class="button">
     Download Themes
   </a>
 </p>
@@ -77,7 +77,7 @@ I recommend using Tomoyuki Kashiro's [Dropbox Paper Finder Workflow](https://git
 This variant uses [Atlas Grotesk](https://commercialtype.com/catalog/atlas/atlas_grotesk) and is available from [Commercial Type](https://commercialtype.com).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/dropbox-paper/dropbox-atlas-light.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-dropbox-paper/raw/main/dropbox-atlas-light.zip" class="button">
     Download Theme
   </a>
 </p>
@@ -89,7 +89,7 @@ This variant uses [Atlas Grotesk](https://commercialtype.com/catalog/atlas/atlas
 This variant uses [Atlas Grotesk](https://commercialtype.com/catalog/atlas/atlas_grotesk) and is available from [Commercial Type](https://commercialtype.com).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/dropbox-paper/dropbox-atlas-dark.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-dropbox-paper/raw/main/dropbox-atlas-dark.zip" class="button">
     Download Theme
   </a>
 </p>
@@ -101,7 +101,7 @@ This variant uses [Atlas Grotesk](https://commercialtype.com/catalog/atlas/atlas
 This variant uses [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) which is freely downloadable from Google Fonts. [Download it here](https://fonts.google.com/download?family=Noto%20Sans).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/dropbox-paper/dropbox-noto-light.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-dropbox-paper/raw/main/dropbox-noto-light.zip" class="button">
     Download Theme
   </a>
 </p>
@@ -113,7 +113,7 @@ This variant uses [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) which
 This variant uses [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) which is freely downloadable from Google Fonts. [Download it here](https://fonts.google.com/download?family=Noto%20Sans).
 
 <p align="center">
-  <a href="https://github.com/chrismessina/alfred-app/raw/master/themes/dropbox-paper/dropbox-noto-dark.zip" class="button">
+  <a href="https://github.com/chrismessina/alfred-theme-dropbox-paper/raw/main/dropbox-noto-dark.zip" class="button">
     Download Theme
   </a>
 </p>
